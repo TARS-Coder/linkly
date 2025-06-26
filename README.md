@@ -28,7 +28,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/linkly.git
+git clone https://github.com/TARS-Coder/linkly.git
 cd linkly
 
 # 2. Make the setup script executable
