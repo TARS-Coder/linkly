@@ -11,3 +11,12 @@ php artisan key:generate
 
 # Step 4: Run migrations and seeders
 php artisan migrate --seed
+
+# Step 5: Install npm dependencies
+npm install
+
+# Step 6: Build assets
+npm run build
+
+# Step 7: Start the server
+php artisan serve
