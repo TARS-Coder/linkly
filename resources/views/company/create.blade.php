@@ -83,7 +83,7 @@
               <div class="flex flex-1 gap-3 flex-wrap px-4 py-3 justify-end">
                 <button class="flex min-w-[84px] max-w-[600px] cursor-pointer items-center justify-center overflow-hidden rounded-full h-10 px-4 bg-[#dce8f3] text-[#121416] text-sm font-bold leading-normal tracking-[0.015em]"
                 >
-                  <span class="truncate">Update</span>
+                  <span class="truncate">Add</span>
                 </button>
                 <a href="{{route('company.index')}}" aria-roledescription="" class="flex min-w-[84px] max-w-[600px] cursor-pointer items-center justify-center overflow-hidden rounded-full h-10 px-4 bg-[#f1f2f4] text-[#121416] text-sm font-bold leading-normal tracking-[0.015em]">
                   <span class="truncate">Cancel</span>
